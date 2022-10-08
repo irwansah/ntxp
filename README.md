@@ -1,4 +1,4 @@
-<img src="image.png" alt="drawing" width="60"/>
+<img src="image.png" alt="drawing" width="100"/>
 
 # NTXP
 ### Easy Setup NextJS, Tailwind, Redux & Persistent Storage
