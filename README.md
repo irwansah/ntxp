@@ -1,6 +1,8 @@
 # NTXP
 ### Easy Setup NextJS, Tailwind, Redux & Persistent Storage
 ![ntxp](image.png)
+<img src="image.png" alt="drawing" width="60"/>
+
 
 
 ## Included Dependency
