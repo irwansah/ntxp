@@ -1,0 +1,22 @@
+{
+    "name": "ntxp",
+    "short_name": "ntxp",
+    "display": "standalone",
+    "orientation": "portrait",
+    "purpose": "any maskable",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "/ntxp.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/ntxp.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
