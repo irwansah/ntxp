@@ -5,7 +5,7 @@
 
 ## Included Dependency
 
-#dependencies
+# dependencies
     - @reduxjs/toolkit ^1.8.5
     - next 12.3.1
     - redux-persist ^6.0.0
